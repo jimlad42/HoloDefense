@@ -172,10 +172,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "NullSourceCodeAccess",
 			"Enabled": false
 		},
