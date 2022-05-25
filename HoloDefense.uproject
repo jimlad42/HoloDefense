@@ -191,10 +191,6 @@
 			]
 		},
 		{
-			"Name": "PerforceSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "PhysXVehicles",
 			"Enabled": false
 		},
@@ -273,6 +269,14 @@
 		},
 		{
 			"Name": "CryptoKeys",
+			"Enabled": false
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "PlasticSourceControl",
 			"Enabled": false
 		}
 	],
